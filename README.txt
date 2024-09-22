@@ -1,0 +1,12 @@
+# marelias-highlighter
+
+# To-do:
+[h] - colour $ as pink
+[h] - Colour line beginning with $ as code
+* detect a path [/path/path/...] (see c.lang file) (see how '#include < aaa >' is done)
+* use ` code goes here ` to make a code block with different font?
+* use \_word\_ to make italic
+* use \_\_word\_\_ to make bold (as here: https://github.com/atom/markdown-preview)
+* Make the line comments active only at the beginning of lines
+This is a new line /r ....... invalid
+
