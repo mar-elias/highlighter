@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE language SYSTEM "language.dtd" [ ]>
 
-<language name="marelias" version="26" priority="999" style="marelias" indenter="python" kateversion="5.0" section="Scripts" extensions="*.txt;*.md" mimetype="text/plain" casesensitive="1" author="marelias" license="">
+<language name="marelias" version="27" priority="999" style="marelias" indenter="python" kateversion="5.0" section="Scripts" extensions="*.txt;*.md" mimetype="text/plain" casesensitive="1" author="marelias" license="">
 
     <highlighting>
         <contexts>
