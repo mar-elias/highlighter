@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE language SYSTEM "language.dtd" [ ]>
 
-<language name="marelias" version="26" style="marelias" indenter="python" kateversion="5.0" section="Scripts" extensions="*.txt;*.md" mimetype="text" casesensitive="1" author="marelias" license="">
+<language name="marelias" version="26" priority="999" style="marelias" indenter="python" kateversion="5.0" section="Scripts" extensions="*.txt;*.md" mimetype="text/plain" casesensitive="1" author="marelias" license="">
 
     <highlighting>
         <contexts>
@@ -156,7 +156,7 @@
 #ffff00 yellow
 #b5b5b5 dark grey
  -->
- 
+
 <!--
     name sets the name of the itemData. Contexts and rules will use this name in their attribute attribute to reference an itemData.
     defStyleNum defines which default style to use. Available default styles are explained in detail later.
